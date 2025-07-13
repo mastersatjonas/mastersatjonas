@@ -11,3 +11,16 @@ Estou expandindo minhas competências em programação, com especial foco em:
 [![Jonas Fernandes stats](https://github-readme-stats.vercel.app/api?username=mastersatjonas)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastersatjonas)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### 🌐 Projetos
+
+- 🔗 [Portfólio Online](https://fernandesdev.netlify.app)
+- 🧠 Em breve: sistema de agendamento, loja virtual, e mais...
+
+---
+
+### 📫 Contato
+
+- 📧 jonas@email.com
+- 📍 Augustinópolis - TO
